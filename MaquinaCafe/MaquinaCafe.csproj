@@ -17,4 +17,8 @@
 	  </PackageReference>
 	</ItemGroup>
 
+	<ItemGroup>
+	  <None Include=".github\workflows\ci-pipeline.yml" />
+	</ItemGroup>
+
 </Project>
